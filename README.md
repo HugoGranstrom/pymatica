@@ -14,4 +14,4 @@ add 2 last
 This will return 15 (13 + 2).
 
 ## Standalone mode
-This mode enables you to use a single kernel. This is especially useful if the kernel has subcommands.
+This mode enables you to use a single kernel. This is especially useful if the kernel has subcommands or alot of commands.
