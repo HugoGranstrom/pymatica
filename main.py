@@ -1,4 +1,7 @@
+import sys
+sys.path.append('kernels')
 import add, multiply, divide, vectorCrossMult, tools, derivative
+
 
 running = True
 last = 0
@@ -68,5 +71,5 @@ elif mode == "2":
                 
             except:
                 print("False arguments")
-print("Thanks for using Mathtoolbox by Stilov")
+print("Thanks for using Mathtoolbox by Hugo Granström")
 #print(last)
